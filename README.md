@@ -23,7 +23,12 @@ currently_learning: [
   "c++",
 ]
 
-goals_this_year: []
+goals_this_year: [
+  C++ Application (incl. GUI) Development,
+ ]
 
-hobbies: []
+hobbies: [
+  Gym,
+  Cello
+]
 ```
