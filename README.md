@@ -1,18 +1,29 @@
-- 👋 Hi, I’m @adam-k-ali
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1>Hello!</h1>
 
-<!---
-adam-k-ali/adam-k-ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ```yaml
 name: Adam Ali
 location: England, UK
 current_job: Master's Student
 education: [
-  MEng Computer Science with AI - University of Southampton
+  "MEng Computer Science with AI - University of Southampton"
 ]
+fields_of_interest: [
+  "Computer Vision",
+  "Machine Learning",
+  "Data Science"
+]
+
+project_history: [
+  "Computer Vision - Detecting Human Subject, Face and Gaze",
+  "PCB Inspection Automation"
+]
+
+currently_learning: [
+  "algorithms",
+  "c++",
+]
+
+goals_this_year: []
+
+hobbies: []
 ```
