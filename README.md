@@ -10,7 +10,7 @@ education: [
 fields_of_interest: [
   "Computer Vision",
   "Machine Learning",
-  "Data Science"
+  "Compilers"
 ]
 
 project_history: [
@@ -21,10 +21,11 @@ project_history: [
 currently_learning: [
   "algorithms",
   "c++",
+  "A64 Assembly"
 ]
 
 goals_this_year: [
-  C++ Application (incl. GUI) Development,
+    Compiler Development,
  ]
 
 hobbies: [
