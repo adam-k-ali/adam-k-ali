@@ -3,14 +3,13 @@
 ```yaml
 name: Adam Ali
 location: England, UK
-current_job: Master's Student
+current_job: Software Engineer, BAE Systems
 education: [
   "MEng Computer Science with AI - University of Southampton"
 ]
 fields_of_interest: [
-  "Computer Vision",
   "Machine Learning",
-  "Compilers"
+  "Web Development"
 ]
 
 project_history: [
@@ -19,13 +18,11 @@ project_history: [
 ]
 
 currently_learning: [
-  "algorithms",
-  "c++",
-  "A64 Assembly"
+  "full-stack web development"
 ]
 
 goals_this_year: [
-    Compiler Development,
+    Web Development,
  ]
 
 hobbies: [
