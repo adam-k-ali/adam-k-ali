@@ -7,18 +7,20 @@ current_job: Software Engineer, BAE Systems
 education: [
   "MEng Computer Science with AI - University of Southampton"
 ]
+
 fields_of_interest: [
-  "Machine Learning",
-  "Web Development"
+  "Full-Stack Development",
+  "Backend Development"
+]
+
+currently_learning: [
+  "IBM Full Stack Software Developer",
+  "full-stack web development"
 ]
 
 project_history: [
   "Computer Vision - Detecting Human Subject, Face and Gaze",
   "PCB Inspection Automation"
-]
-
-currently_learning: [
-  "full-stack web development"
 ]
 
 goals_this_year: [
