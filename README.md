@@ -3,7 +3,7 @@
 ```yaml
 name: Adam Ali
 location: England, UK
-current_job: Software Engineer, BAE Systems
+current_job: Software Engineer, Unibuddy
 education: [
   "MEng Computer Science with AI - University of Southampton"
 ]
@@ -14,8 +14,7 @@ fields_of_interest: [
 ]
 
 currently_learning: [
-  "IBM Full Stack Software Developer",
-  "full-stack web development"
+  "AWS Solutions Architect"
 ]
 
 project_history: [
@@ -24,11 +23,12 @@ project_history: [
 ]
 
 goals_this_year: [
-    Web Development,
+  AWS Solutions Architect,
+  AI Projects
  ]
 
 hobbies: [
-  Gym,
+  Running,
   Cello
 ]
 ```
