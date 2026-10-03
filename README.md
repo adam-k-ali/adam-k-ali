@@ -1,34 +1,19 @@
-<h1>Hello!</h1>
+# Hi, I'm Adam 👋
 
-```yaml
-name: Adam Ali
-location: England, UK
-current_job: Software Engineer, Unibuddy
-education: [
-  "MEng Computer Science with AI - University of Southampton"
-]
+I'm a software engineer based in England, UK, with a background in Computer Science and AI.
 
-fields_of_interest: [
-  "Full-Stack Development",
-  "Backend Development"
-]
+## About me
 
-currently_learning: [
-  "AWS Solutions Architect"
-]
+- 🎓 MEng Computer Science with AI, University of Southampton
+- 💻 Interested in full-stack and backend development
+- 🤖 Enjoy working on AI and computer vision projects
+- 🏃 Outside of work: running and playing the cello
 
-project_history: [
-  "Computer Vision - Detecting Human Subject, Face and Gaze",
-  "PCB Inspection Automation"
-]
+## Past projects
 
-goals_this_year: [
-  AWS Solutions Architect,
-  AI Projects
- ]
+- Computer Vision: detecting human subjects, faces and gaze
+- PCB inspection automation
 
-hobbies: [
-  Running,
-  Cello
-]
-```
+## Find my work
+
+Browse my [repositories](https://github.com/adam-k-ali?tab=repositories) to see what I've been building lately.
